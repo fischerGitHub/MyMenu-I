@@ -15,7 +15,7 @@ public class Order {
      * Display a selected menu.
      * @param nbMenu The selected menu.
      */
-    public void displaySelectedMenu(int nbMenu) {
+    public void displaySelectedMenu(int nbMenu) { 
         System.out.println("Vous avez choisi le menu " + nbMenu);
     }
 }
